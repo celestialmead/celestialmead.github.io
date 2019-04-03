@@ -1,6 +1,6 @@
 title:            Celestial Mead
 description:      sic itur ad astra
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts:    false # set to true to show excerpts on the homepage
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url: https://celestialmead.github.io
@@ -12,7 +12,7 @@ future:      false  # publish future dated posts --  true, false (default)
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%Y-%m-%d"
 
   # generate social links in footer
   social_links:
