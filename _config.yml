@@ -1,9 +1,9 @@
 #theme: jekyll-theme-minima
-theme: minima
+#theme: minima
 
 title:            Celestial Mead
 description:      sic itur ad astra
-author:           celestialmead
+#author:           celestialmead
 show_excerpts: false # set to true to show excerpts on the homepage
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
