@@ -3,6 +3,7 @@ layout: post
 title: First batch
 categories: mead
 author: celestialmead
+excerpt: I began making my first batch of mead after picking up the wine kit, and I was quite excited to get started.
 ---
 <p>I began making my first batch of mead after picking up the wine kit, and I was quite excited to get started.  Perhaps I was a somewhat too excited because after making a stop at the grocery store on the way back, I grabbed insufficient honey for the first batch.  The kit I purchased came with a 5 gallon (i.e. ~ 23 L) glass carboy, and according to <a href="http://www.stormthecastle.com/mead" target="_blank">The Joy of Mead</a> I needed about 12 lbs (i.e. ~ 6 kg) of honey to make 5 gallon of mead.  However, in my excitement I didn't read that this will make a <strong>dry</strong> mead.  If I wanted to make a mead with any residual sweetness, I would need at least another 1 kg of honey.  In any event I went ahead with making my first batch of mead, following the instructional <a href="http://www.stormthecastle.com/mead/mead-making-video-tutorial.htm" target="_blank">videos</a> from <a href="http://www.stormthecastle.com/mead" target="_blank">The Joy of  Mead</a>.</p>
 <p><!--more--></p>
