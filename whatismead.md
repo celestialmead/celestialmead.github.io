@@ -1,7 +1,6 @@
 ---
 layout: page
 title: What is Mead?
-author: celestialmead
 permalink: /whatismead/
 ---
 
