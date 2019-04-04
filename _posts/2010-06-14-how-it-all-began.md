@@ -3,6 +3,7 @@ layout: post
 title: In the beginning...
 categories: mead
 author: celestialmead
+excerpt: My introduction to mead occurred several years ago at the Toronto's Festival of Beer
 ---
 
 <p>My introduction to mead occurred several years ago at the <a href="http://www.beerfestival.ca" target="_blank">Toronto's Festival of Beer</a>, which I attended because my friend Giulio won four tickets from a local radio show.  It was great!  We spent several hours wandering the grounds (Old Fort York), and we all had a fantastic time drinking exotic and unique beers.  While there we all tried an interesting red liquid, which was quite sweet and tasted not unlike kool-aid.  Once we finished drinking our sample and decided to move to another stall, our heads swam in a haze.  The sweetness of the beverage temporarily masked the potency of the drink (a technique I would later employ), and we were amazed.</p>
