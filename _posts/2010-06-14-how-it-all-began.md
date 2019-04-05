@@ -19,4 +19,4 @@ Not more than a week after that lunch-time discussion, I had purchased a wine ki
 
 Please have a look at my youtube [channel](http://www.youtube.com/user/ccapo1), I will be posting the occasional video describing my mead  making endeavours.
 
-![Mead Manuscript](/images/mead_manuscript.jpg?w=300)
+![Mead Manuscript](/assets/mead_manuscript.jpg?w=300)
