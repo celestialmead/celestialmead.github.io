@@ -17,6 +17,6 @@ After that discussion, I began to research mead making online. I found several 
 
 Not more than a week after that lunch-time discussion, I had purchased a wine kit  from a local wine supply store (minus the grape concentrate) and made my first batch of mead.
 
-Please have a look at my <a href="http://www.youtube.com/user/ccapo1" target="_blank">youtube  channel</a>, I will be posting the occasional video describing my mead  making endeavours.
+Please have a look at my youtube [channel](http://www.youtube.com/user/ccapo1), I will be posting the occasional video describing my mead  making endeavours.
 
 ![Mead Manuscript](/images/mead_manuscript.jpg?w=300)
