@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mead made on the cheap
-catagories: mead
+description: Cheap mead recipe
 author: celestialmead
 excerpt: After the success -- **ahem** -- with my First batch of mead, I thought about how I could improve my mead making expertise.
 ---
