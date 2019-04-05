@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First batch
-categories: mead
+description: First batch of mead
 author: celestialmead
 excerpt: I began making my first batch of mead after picking up the wine kit, and I was quite excited to get started.
 ---
