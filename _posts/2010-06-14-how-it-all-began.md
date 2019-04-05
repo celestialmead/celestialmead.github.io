@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In the beginning...
-categories: mead
+description: Introduction to mead
 author: celestialmead
 excerpt: My introduction to mead occurred several years ago at the Toronto's Festival of Beer
 ---
