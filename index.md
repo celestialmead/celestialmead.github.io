@@ -7,4 +7,6 @@
 #
 layout: home
 ---
-Welcome to Celestialmead
+Welcome to Celestial Mead
+
+A blog about an ancient beverage, and my exploration of its many varieties.
