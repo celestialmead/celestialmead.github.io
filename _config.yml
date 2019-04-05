@@ -1,9 +1,12 @@
-title:            Celestial Mead
-description:      bibere mulsum
+title: Celestial Mead
+description: bibere mulsum
+url: https://celestialmead.github.io
+author: celestialmead
+lang: en_US
+
 show_excerpts:    true # set to true to show excerpts on the homepage
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: https://celestialmead.github.io
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Toronto
