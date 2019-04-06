@@ -3,10 +3,10 @@ layout: post
 title: Mead made on the cheap
 description: Cheap mead recipe
 author: celestialmead
-excerpt: After the success -- **ahem** -- with my First batch of mead, I thought about how I could improve my mead making expertise.
+excerpt: After the ~~success~~ completion of my first batch of mead, I thought about how I could improve my mead making expertise.
 ---
-<p>After the success -- <em>**ahem**</em> -- with my <a title="First batch" href="http://celestialmead.wordpress.com/2010/06/14/first-batch/">first batch</a> of mead, I thought about how I could improve my mead making expertise.  Namely, could I make smaller batches of mead to make things more manageable?  Furthermore, I could I make a batch of mead that didn't require investing in new equipment?  On <a href="http://www.stormthecastle.com/mead" target="_blank">The Joy of Mead</a> a post appeared about how to make a cheap one gallon of mead, which was right down my alley so I gave it a try.</p>
-<p><!--more--></p>
+After the ~~success~~ completion of my first <a title="batch" href="http://celestialmead.wordpress.com/2010/06/14/first-batch/">first batch</a> of mead, I thought about how I could improve my mead making expertise.  Namely, could I make smaller batches of mead to make things more manageable?  Furthermore, I could I make a batch of mead that didn't require investing in new equipment?  On <a href="http://www.stormthecastle.com/mead" target="_blank">The Joy of Mead</a> a post appeared about how to make a cheap one gallon of mead, which was right down my alley so I gave it a try.
+
 <p>In this mead-on-the-cheap method, instead of using expensive equipment you use the plastic spring water jug itself to contain your batch of mead:</p>
 <p>[caption id="attachment_90" align="aligncenter" width="275"]<a href="http://celestialmead.wordpress.com/2010/06/14/mead-made-on-the-cheap/mead_on_the_cheap/" rel="attachment wp-att-90"><img class="size-full wp-image-90 " title="Mead made on the cheap" src="{{ site.baseurl }}/assets/mead_on_the_cheap.jpg" alt="" width="275" height="220" /></a> Ingredients and equipment for making mead on the cheap[/caption]</p>
 <p>As you can see in the picture above, you don't need many ingredients, and all these are available at a typical grocery store.  In particular what you will need:</p>
