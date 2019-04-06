@@ -3,7 +3,7 @@ layout: post
 title: The purpose driven mead
 description: mead business
 author: celestialmead
-excerpt: At this point one may ask the question: What is the purpose of making mead? ...
+excerpt: At this point one may ask the question What is the purpose of making mead? ...
 ---
 At this point one may ask the question: 
 > What is the purpose of making mead?
