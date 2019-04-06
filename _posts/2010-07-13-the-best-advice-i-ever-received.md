@@ -3,7 +3,7 @@ layout: post
 title: The Best Advice I Ever Received
 description: best advice
 author: celestialmead
-excerpt: Despite my mild disappointment with my first attempt at mead made on the cheap, I decided to give it another try ...
+excerpt: Take the road less travelled. To thine own self be true ...
 ---
 > Take the road less travelled
 
