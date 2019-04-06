@@ -3,7 +3,7 @@ layout: post
 title: Mead made on the cheap
 description: Cheap mead recipe
 author: celestialmead
-excerpt: After the completion of my first batch of mead, I thought about how I could improve my mead making expertise.
+excerpt: After the completion of my first batch of mead, I thought about how I could improve my mead making expertise ...
 ---
 After the ~~success~~ completion of my first [batch](http://celestialmead.github.io/2010/06/15/first-batch.html) of mead, I thought about how I could improve my mead making expertise. Namely, could I make smaller batches of mead to make things more manageable? Furthermore, I could I make a batch of mead that didn't require investing in new equipment? On [The Joy of Mead](http://www.stormthecastle.com/mead) a post appeared about how to make a cheap one gallon of mead, which was right up my alley so I gave it a try.
 
