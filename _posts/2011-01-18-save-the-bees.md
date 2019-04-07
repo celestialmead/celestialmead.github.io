@@ -3,7 +3,7 @@ layout: post
 title: Save the Bees
 description: bees
 author: celestialmead
-excerpt: here is a petition going around to convince government to take action and protect the honey bee ...
+excerpt: There is a petition going around to convince government to take action and protect the honey bee ...
 ---
 There is a petition going around to convince government to take action and protect the honey bee, which are crucial in the pollination of the vast majority of fruits and vegetables humans eat.
 
