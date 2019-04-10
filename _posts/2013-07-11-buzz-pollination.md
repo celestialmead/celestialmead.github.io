@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buzz Pollination
+title: Buzz pollination
 description: bees pollination
 author: celestialmead
 excerpt: Interesting findings about how bees get a flower's pollen ...
