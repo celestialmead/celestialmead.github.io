@@ -3,7 +3,7 @@ layout: post
 title: Study debunks myths on organic farms
 description: organic farms myth
 author: celestialmead
-excerpt: Well this is a little surprising: Study debunks myths on organic farms ...
+excerpt: Well this is a little surprising 'Study debunks myths on organic farms' ...
 ---
 Well this is a little surprising: [Study debunks myths on organic farms](http://www.thestarphoenix.com/business/Study+debunks+myths+organic+farms/5462520/story.html)
 
